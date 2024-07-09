@@ -1,4 +1,4 @@
-# New Document### SSH Exploititng
+## SSH Exploititng
  - ### **SSH** *stands for secure shell that allows to gain computer shell across the network*
  - It use port 22
  - If you went to ssh in your Linux first download `openssh-service`
