@@ -1,4 +1,6 @@
-- **Loops are one of the  used to repeat a block of code**
+# C LOOPS
+- **Loops are  used to repeat a block of code in a computer **
+  ### There are three types of loop on c 
 ### while loop 
 ``` c 
 int x = 0; 
