@@ -12,6 +12,7 @@ sudo apt install openssh-service
 ## SSH Login
 <hr>
 
+
  - *There are two ways of  autentication  method to got*
  > # Id RSA
  > It use private  and public key to connect the shell
